@@ -1,0 +1,6 @@
+@PsiquiatriaAPI_HostAddress = http://localhost:5299
+
+GET {{PsiquiatriaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
